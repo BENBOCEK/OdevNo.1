@@ -1,0 +1,29 @@
+.box {
+    padding: 10px;
+    float: right;
+    height: 10px;
+    width: 200px;
+    color: rgb(49, 82, 17);
+}
+#img {
+    float: left;
+    padding: 10px;
+    height: 200px;
+    width: 200px;
+}
+.hkk {
+    float: right;
+    padding: 0px;
+    color: rgb(49, 82, 17);
+    margin-left: 550px;
+    font-size: large;
+
+}
+.footer {
+    padding: 500px;
+   font-size: 35px;
+  
+}
+.inn {
+    list-style-position: inside;
+}
